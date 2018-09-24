@@ -13,3 +13,10 @@ We want to pull together existing Open Source ROS and other software, new ROS pa
 
 ## Planning
 
+
+to build docs
+
+```
+cd docs
+sphinx-build -b builder . ./_build
+```
