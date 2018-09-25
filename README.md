@@ -1,4 +1,4 @@
-# Earth Rover Base
+# Earth Rover Agricultural AGV
 An Open Source rover for use in agriculture
 
 This will be a curated collection of hardware and software resources to help those working in agricultural robotics. The complete collection will provide a robotic base unit suitable for outdoor use that has high quality RTK GPS, robust localisation, and path planning.

@@ -1,4 +1,4 @@
 Software
 ========
 
-.. source code: http://example.com/
+source code: https://github.com/earthrover/earth_rover_agv
