@@ -18,5 +18,8 @@ to build docs
 
 ```
 cd docs
-sphinx-build -b builder . ./_build
+sphinx-build . ./_build
 ```
+
+
+[Sphinx reStructuredText guide](http://www.sphinx-doc.org/en/1.5/rest.html#rst-primer)

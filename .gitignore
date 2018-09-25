@@ -30,3 +30,5 @@ venv/
 .idea/
 
 src/secrets/
+
+docs/_build/
